@@ -1,1 +1,2 @@
 # manner-planner
+I did my best. It seems like I am close but wherever I turn I hit a wall. I couldn't get many things to work. I created html but with javascript wasn't succesful. I need more time, more practice..
